@@ -1,2 +1,3 @@
 # kaggle-basic-mercedes-grenner-
-Gold medel level but simple solution including EDA
+Gold medel level achieved with simple solution 
+A short EDA process included
